@@ -254,9 +254,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
     Built with ❤️ by <strong>HSG</strong> for the Vilon community
   </p>
   <p>
-    <a href="https://kick.com/vilon">🎮 Watch Live on Kick</a> ·
-    <a href="https://discord.gg/H8ujXwHkHT">💬 Join Discord</a> ·
-    <a href="https://x.com/vilon45">🐦 Follow on X</a>
+    <a href="https://discord.com/users/1416151331965767810">💬 Join Discord</a> ·
+    <a href="https://x.com/Moh_HSG">🐦 Follow on X</a>
   </p>
   <p>
     <sub>© 2026 Vilon. All rights reserved.</sub>
