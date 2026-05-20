@@ -158,8 +158,7 @@ MIT © 2026 Vilon. All rights reserved.
 <div align="center">
   <p>Built with ❤️ by <strong>HSG</strong> for the Vilon community</p>
   <p>
-    <a href="https://kick.com/vilon">🎮 Watch Live</a> ·
-    <a href="https://discord.gg/H8ujXwHkHT">💬 Discord</a> ·
-    <a href="https://x.com/vilon45">🐦 X</a>
+    <a href="https://discord.com/users/1416151331965767810">💬 Join Discord</a> ·
+    <a href="https://x.com/Moh_HSG">🐦 Follow on X</a>
   </p>
 </div>
